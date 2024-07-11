@@ -37,3 +37,9 @@ Em seguida, em um terminal, execute o seguinte comando:
 ```
 vagrant up
 ```
+## Acesse via navegador:
+
+```
+http://IP-VM/cep.html
+```
+
